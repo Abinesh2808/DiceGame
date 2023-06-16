@@ -7,8 +7,11 @@ Before running the dice game, make sure you have the following software installe
 
 - Python 3.x: You can download Python from the official website: https://www.python.org/downloads/
 - Tkinter: Tkinter is a standard Python GUI library. 
-	- To install Tkinter using “ python -m pip install tk “ in cmd. (Make sure to remove double quotes)
-
+	- To install Tkinter use following command in command prompt or terminal
+   ```
+    python -m pip install tk
+   ```
+   
 ## How to Run ##
 To run the dice game, follow these steps:
 
