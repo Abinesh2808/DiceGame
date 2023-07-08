@@ -16,6 +16,7 @@ class Dice:
         self.player1_name = StringVar()
         self.player2_name = StringVar()
         self.play_count = 1
+        self.result()
 
     def widgets(self):
         self.usr_a = Label(self.frame, text="Enter User A Name:", font=("Roboto", 10))
@@ -118,4 +119,4 @@ class Dice:
 
 
 obj = Dice()
-obj.result()
+
