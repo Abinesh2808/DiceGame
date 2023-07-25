@@ -27,7 +27,7 @@ git clone https://github.com/Abinesh2808/DiceGame.git
 ```
 cd DiceGame
 ```
-4.Run the following command to start the password generator
+4.Run the following command to start the Dice Game
 ```
 python DiceGame.py
 ```
@@ -69,7 +69,7 @@ git clone https://github.com/Abinesh2808/DiceGame.git
 ```
 3. Open a terminal or command prompt and navigate to the project directory
 ```
-cd RandomPasswordGenerator
+cd DiceGame
 ```
 4. Create a new branch for your changes:
 ```
